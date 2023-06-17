@@ -1,0 +1,21 @@
+.app-container {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  padding: 50px;
+  border-radius: 10px;
+  flex-wrap: wrap;
+}
+
+.image-design {
+  height: 100px;
+  width: 100px;
+}
+
+.para-design {
+  font-size: 20px;
+  font-weight: bold;
+}
